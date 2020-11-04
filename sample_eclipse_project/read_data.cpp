@@ -45,3 +45,4 @@ int main() {
 //	read_data("car-f-92.stu", 18419, 543);
 	read_data("toy_e5_s6.stu", 6, 5);
 }
+
